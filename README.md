@@ -12,3 +12,7 @@ Users can earn rewards for sharing their dining experiences, while restaurants c
 
 Furthermore, the app provides a convenient platform for users to track their dining habits, while also helping them save money on future restaurant visits.
 
+### Install and build instructions
+
+
+
