@@ -9,5 +9,6 @@ An app that allows users to upload their restaurant visits and food orders, alon
 Restaurants can also pay to view the data submitted by the users, allowing them to gather insights into customer behavior and preferences.
 
 Users can earn rewards for sharing their dining experiences, while restaurants can gain valuable data that can help them improve their menus and customer service. 
+
 Furthermore, the app provides a convenient platform for users to track their dining habits, while also helping them save money on future restaurant visits.
 
