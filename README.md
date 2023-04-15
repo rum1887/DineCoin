@@ -10,8 +10,6 @@ Restaurants can also pay to view the data submitted by the users, allowing them 
 
 Users can earn rewards for sharing their dining experiences, while restaurants can gain valuable data that can help them improve their menus and customer service. 
 
-Furthermore, the app provides a convenient platform for users to track their dining habits, while also helping them save money on future restaurant visits.
-
 ### Install and build instructions
 
 
